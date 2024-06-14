@@ -1,0 +1,3 @@
+[submodule "keep-note-task"]
+	path = keep-note-task
+	url = https://github.com/jemish1/keep-note-task
